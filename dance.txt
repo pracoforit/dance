@@ -1,2 +1,6 @@
 dfsdf
+<<<<<<< HEAD
 asdd
+=======
+zxdf
+>>>>>>> c2449a6bd8540d61b55a79ca23a1b5629cee5868
