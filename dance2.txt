@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-asd
-=======
-Very Well
->>>>>>> fairy
+This was a fairy one
