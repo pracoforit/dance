@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 This was a fairy one.
 
 But the prince was there to pro
+=======
+This was a fairy one
+
+
+TESTTTTTTTTTTTT
+
+another
+>>>>>>> 6b09f6f672a93f12a49159493da8aed92796dd2c
